@@ -2,12 +2,12 @@ Automação feita em Python com o objetivo de preencher informações de candida
 
 Pacotes do Python usados:
 
-pandas
-openpyxl
-clipboard
-pyautogui
-sleep
-webdriver
+pandas,
+openpyxl,
+clipboard,
+pyautogui,
+sleep,
+webdriver,
 selenium
 
 Como usar:
